@@ -1,0 +1,5 @@
+AIzaSyBdx9n63VvxkMdo7IMa9GSeBOkD32Zd608
+senha DB: s13isT07BiVREq5q
+user DB: marcosfilipeddo
+
+mongodb+srv://marcosfilipeddo:s13isT07BiVREq5q@cluster0.00qsl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
